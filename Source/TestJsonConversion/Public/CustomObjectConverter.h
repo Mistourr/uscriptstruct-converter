@@ -13,7 +13,7 @@
  * 
  */
 UCLASS()
-class TESTJSONCONVERSION_API UCustomObjectConverter : public UBlueprintFunctionLibrary
+class /*TESTJSONCONVERSION_API*/ UCustomObjectConverter : public UBlueprintFunctionLibrary
 {
 	GENERATED_BODY()
 	public:
